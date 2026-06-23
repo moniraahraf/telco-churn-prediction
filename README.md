@@ -33,7 +33,7 @@ It covers the full ML pipeline:
 
 ## 📊 Power BI Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
